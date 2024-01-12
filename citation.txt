@@ -1,0 +1,6 @@
+@inproceedings{REPO111,
+    author = "Deng, Yu and Yang, Jiaolong and Tong, Xin",
+    booktitle = "IEEE Computer Vision and Pattern Recognition",
+    title = "{Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence}",
+    year = "2021"
+}
